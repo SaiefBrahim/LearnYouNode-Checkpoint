@@ -1,0 +1,17 @@
+{
+  "name": "learnyoucode-checkpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http-collect.js",
+  "scripts": {
+    "test": "node"
+  },
+  "author": "saief brahim",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.4",
+    "bl": "^5.0.0",
+    "strftime": "^0.10.1",
+    "through2-map": "^3.0.0"
+  }
+}
